@@ -2,7 +2,7 @@
 
 ## Add Environment Variables
 
-- [ ] Task 1: Add the environment variable for the 7-Zip
+- Add the environment variable for the 7-Zip
 
 ## Diseble Firewall and anti virus
 
@@ -16,15 +16,15 @@
 
 ## Unreal Prerequisities
 
-- [ ] Downloading and installing from google drive failed.
-- [ ] Installation could be possible if it exists in dropbox.
+-  Downloading and installing from google drive failed.
+-  Installation could be possible if it exists in dropbox.
 
 ## Visual Studio
 
-- [ ] App instllation is doable.
-- [ ] But installing the specific config provides challange.
+-  App instllation is doable.
+-  But installing the specific config provides challange.
 
 ## Epic Launcher and Unreal Engine
 
-- [ ] Instllation and authentication requires UI navigation. 
-- [ ] Till now, no work around was found.
+- Instllation and authentication requires UI navigation. 
+- Till now, no work around was found.
